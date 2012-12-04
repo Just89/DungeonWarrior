@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeon", "WindowsGame1\Dungeon.csproj", "{F1F34301-1FA1-42D7-9EBF-8105FEE9118F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonGameLibrary", "WindowsGameLibrary1\DungeonGameLibrary.csproj", "{72C553C0-28A3-416E-9C23-5FFD58E748AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1F34301-1FA1-42D7-9EBF-8105FEE9118F}.Debug|x86.ActiveCfg = Debug|x86
+		{F1F34301-1FA1-42D7-9EBF-8105FEE9118F}.Debug|x86.Build.0 = Debug|x86
+		{F1F34301-1FA1-42D7-9EBF-8105FEE9118F}.Release|x86.ActiveCfg = Release|x86
+		{F1F34301-1FA1-42D7-9EBF-8105FEE9118F}.Release|x86.Build.0 = Release|x86
+		{EBA58B0D-1E29-4591-9614-54D9B397BAAF}.Debug|x86.ActiveCfg = Debug|x86
+		{EBA58B0D-1E29-4591-9614-54D9B397BAAF}.Release|x86.ActiveCfg = Release|x86
+		{72C553C0-28A3-416E-9C23-5FFD58E748AA}.Debug|x86.ActiveCfg = Debug|x86
+		{72C553C0-28A3-416E-9C23-5FFD58E748AA}.Debug|x86.Build.0 = Debug|x86
+		{72C553C0-28A3-416E-9C23-5FFD58E748AA}.Release|x86.ActiveCfg = Release|x86
+		{72C553C0-28A3-416E-9C23-5FFD58E748AA}.Release|x86.Build.0 = Release|x86
+		{02CBDE52-FB02-4CD8-9142-FF0F63DB4964}.Debug|x86.ActiveCfg = Debug|x86
+		{02CBDE52-FB02-4CD8-9142-FF0F63DB4964}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
