@@ -3,7 +3,7 @@ DungeonWarrior
 
 Scripting language:       CSharp  <br/>
 Framworks:                XNA  <br/>
-development environment:  Microsoft Visual Studio 2010  <br/>
+Development environment:  Microsoft Visual Studio 2010  <br/>
 
 General description:
 This creation was my first experience with OOP C# XNA for Xbox360. I thought it would be fun to make a retro ladder 
